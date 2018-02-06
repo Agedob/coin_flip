@@ -1,0 +1,2 @@
+Write a function that simulates tossing a coin 5,000 times. 
+Your function should print how many times the head/tail appears.
